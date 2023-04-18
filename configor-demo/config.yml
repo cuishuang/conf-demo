@@ -1,0 +1,12 @@
+appname: 源码阅读插件111222
+db:
+  name:     prod_db
+  user:     admin
+  password: 123456
+  port:     3306
+
+contacts:
+  - name:  fliter
+    email: i@dashen.tech
+  - name:  shuang
+    email: my@gmail.com
